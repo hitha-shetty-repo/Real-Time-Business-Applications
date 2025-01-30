@@ -1,6 +1,6 @@
-# Atliq Hardware Finance Analysis Tools
+# Excel - Real-Time Business Applications
 
-This repository contains two essential tools created in Excel to aid project managers and business managers in making informed decisions based on financial analysis.
+This repository contains two essential tools created in Excel to aid project managers and business managers in making informed decisions regarding their projects.
 
 ## Project Files
 
